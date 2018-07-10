@@ -12,7 +12,7 @@ sprintly's export only gets the tickets. This gets more.
 
     SPRINTLY_API_KEY='asdf' SPRINTLY_API_USER='user@email' python3 scrape.py > output.json
 
-3. [thank Joe for running sprintly over the years](https://twitter.com/home/status=thanks+@joestump+for+all+the+years+of+@sprintly!), [buy me a coffee](https://www.buymeacoffee.com/XTJBuhoP8), [come work with me](https://www.stansonhealth.com/) (secret job listing: aws+ansible devops? yes plz!)
+3. [thank Joe for running sprintly over the years](https://twitter.com/home?status=thanks+@joestump+for+all+the+years+of+@sprintly!), [buy me a coffee](https://www.buymeacoffee.com/XTJBuhoP8), [come work with me](https://www.stansonhealth.com/) (secret job listing: aws+ansible devops? yes plz!)
 
 4. contribute improvements, add scripts to import this JSON to other trackers (like Asana).
 
